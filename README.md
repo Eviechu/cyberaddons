@@ -4,11 +4,11 @@
  
 ##Info
 
-##Contents
+###Contents
 
-##Credits
+####Credits
 
-##License
+#####License
 Copyright 20~~22~~77 Evellyn Alicia
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
