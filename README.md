@@ -81,6 +81,8 @@
     
     Reading...
     
+    3-Clause BSD License
+    
     Copyright 2022 Evellyn A.
     
     Redistribution and use in source and binary forms, with or without modification, 
