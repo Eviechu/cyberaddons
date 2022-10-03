@@ -8,10 +8,10 @@
 
 ## Credits
 
-CPU Meter - The Rainmeter Team: https://www.rainmeter.net/
-Touch Terminal - superfahd: https://www.deviantart.com/superfahd/art/TouchTerminal-579258630
-LightClock - TwistLemon: https://www.deviantart.com/twistlemon
-Visualizer - DD.921 (marcopixel): https://github.com/marcopixel/monstercat-visualizer
+CPU Meter - The Rainmeter Team: https://www.rainmeter.net/  
+Touch Terminal - superfahd: https://www.deviantart.com/superfahd/art/TouchTerminal-579258630  
+LightClock - TwistLemon: https://www.deviantart.com/twistlemon  
+Visualizer - DD.921 (marcopixel): https://github.com/marcopixel/monstercat-visualizer  
 
 ## License
 
