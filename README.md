@@ -3,11 +3,14 @@
 # CyberAddons
  
 ## Info
+A Rainmeter skin edited and put together by me based on superfahd's Touch Terminal skin with a few addons and skins made from scratch.  
+Made for personal use and my own desktop customization, I've decided to host it on github as both a safekeep and for public availability.
+
+Licensed under BSD Clause-3 License
 
 ## Contents
 
 ## Credits
-
 CPU Meter - The Rainmeter Team: https://www.rainmeter.net/  
 Touch Terminal - superfahd: https://www.deviantart.com/superfahd/art/TouchTerminal-579258630  
 LightClock - TwistLemon: https://www.deviantart.com/twistlemon  
